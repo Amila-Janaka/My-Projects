@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Advance Application</string>
+    <string name="main_title">Advanced Application</string>
+    <string name="student_registration_number">Student Registration Number</string>
+    <string name="student_registration_name">Student Registration Name</string>
+    <string name="student_registration_birthday">Student Registration Birthday</string>
+    <string name="student_registration_email">Student Registration Email</string>
+    <string name="updateBTN">Update</string>
+    <string name="insertBTN">Insert</string>
+    <string name="deleteBTN">Delete</string>
+    <string name="viewBTN">View</string>
+</resources>
