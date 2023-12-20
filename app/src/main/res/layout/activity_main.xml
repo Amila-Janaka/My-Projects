@@ -22,6 +22,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="40sp"
+        android:inputType="phone"
         android:hint="@string/student_registration_number"
         android:minHeight="48dp" />
 
